@@ -1,2 +1,4 @@
 # Network_Security
+
+The purpose of the course is to understand basic concepts in network and information security, with the ultimate goal of gaining knowledge about security procedures, techniques and technologies applied to achieve a secure network/system. In particular, the topics covered in particular are the following: Introductory concepts of information and network security - Security management / risk analysis issues - Personal data protection legal framework. Cryptography (Symmetric/Asymmetric encryption algorithms). Cryptographic hash functions - Digital signatures - Digital certificates. Access Control - Password Management. Web Security - SSL/TLS and PGP protocols. Virtual private networks - IPSec protocol. Security in wireless and mobile communications. Security of (online) applications. Intrusion detection systems – vulnerability detection audit.
  
